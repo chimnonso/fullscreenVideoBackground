@@ -77,10 +77,10 @@ section {
     color: #fff;
     background: #333;
 }
-
+/* 
 @media (max-width: 960px) {
     .container {
         padding-left: 3rem;
         padding-right: 3rem;
     }
-}
+} */
